@@ -1,0 +1,16 @@
+{
+  "name": "roblox-map-system",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "Shared": {
+        "$path": "src/shared"
+      }
+    },
+    "ServerScriptService": {
+      "MapSystem": {
+        "$path": "src/server"
+      }
+    }
+  }
+}
